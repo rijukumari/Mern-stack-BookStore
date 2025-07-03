@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Whispers of the Wind",
+        "price":0,
+        "category":"Free",
+        "image":"../assets/book_2.png"
+
+
+    },
+    {
+        "id":2,
+        "name":"Sports Boook",
+        "title":"Peak Performance Playbook",
+        "price":0,
+        "category":"Free",
+        "image":"../assets/book_8.png"
+
+
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"The Last Lantern",
+        "price":0,
+        "category":"Free",
+        "image":"../assets/book_5.png"
+
+
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"The Last Songbird",
+        "price":100,
+        "category":"Song",
+        "image":"../assets/book5.png"
+
+
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"A Pinch of Love, A Dash of Flavor",
+        "price":200,
+        "category":"Food",
+        "image":"../assets/book6.png"
+
+
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"The Secret of Hollow Hill",
+        "price":0,
+        "category":"Free",
+        "image":"../assets/book7.png"
+
+
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Voices in the Fog",
+        "price":0,
+        "category":"Free",
+        "image":"../assets/book8.png"
+
+
+    },
+    {
+        "id":8,
+        "name":"Sports Book",
+        "title":"Play with Heart",
+        "price":50,
+        "category":"Sports",
+        "image":"../assets/book9.png"
+
+
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"The Magic Feather",
+        "price":0,
+        "category":"Free",
+        "image":"../assets/book10.png"
+
+
+    },
+    {
+        "id":10,
+        "name":"Comedy Book",
+        "title":"  Diary of a Drama King",
+        "price":20,
+        "category":"Emtainment",
+        "image":"../assets/book_2.png"
+
+
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Adventures in Rainbow Valley",
+        "price":0,
+        "category":"Free",
+        "image":"../assets/book1.png"
+
+
+    },
+    {
+        "id":12,
+        "name":"Comedy Book",
+        "title":"Diary of a Drama King",
+        "price":0,
+        "category":"Free",
+        "image":"../assets/book7.png"
+
+
+    }
+]
